@@ -1,1 +1,1 @@
- This repository is created to track my learning progress on HTML
+Created this repository to check my learning progress on HTML 
